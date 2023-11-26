@@ -1,12 +1,10 @@
 # A Python guide to compress CSV Data into Parquet
 
-###### Stop wasting time loading files and speed up your data analytics pipeline
-
 This repository contains the code for the Medium article [A Python guide to compress CSV Data into Parquet](https://robertochiosa.medium.com/a-python-guide-to-compress-csv-data-into-parquet-8c797136aa38).
 It shows how to load csv file and save it in parquet format. This allows to speed up the data analytics pipeline and
 save space on disk. 
 
-Thi scode uses the python libraries [pandas](https://pandas.pydata.org/)
+This code uses the python libraries [pandas](https://pandas.pydata.org/)
 and [pyarrow](https://arrow.apache.org/docs/python/) to perform data loading, handling and saving.
 
 ## Setup
