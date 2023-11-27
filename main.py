@@ -1,6 +1,6 @@
 # Author:       Roberto Chiosa
 # Copyright:    Roberto Chiosa, © 2023
-# Email:        roberto.chiosa@pinvision.it
+# Email:        roberto.chiosa@gmail.com
 #
 # Created:      26/11/23
 # Script Name:  main.py
